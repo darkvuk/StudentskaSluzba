@@ -1,0 +1,36 @@
+1 Racunari i programiranje
+1 Matematika I
+1 Fizicke i elektronske osnove kompjuterskih sistema
+1 Uvod u kompjuterske nauke
+1 Engleski jezik I
+1 Operativni sistemi
+2 Matematika II
+2 Principi programiranja
+2 Strukture podataka
+2 Programski jezik C
+2 Engleski jezik II
+3 Baze podataka I
+3 Programiranje I
+3 Distribuirani racunarski sistemi
+3 Objektno orijentisano programiranje
+3 Matematika III
+3 Engleski jezik III
+4 Matematika IV
+4 Internet tehnologije
+4 Programiranje II
+4 Baze podataka II
+4 Racunarske mreze i komunikacije
+4 Engleski jezik IV
+5 Matematika V
+5 Programski prevodioci
+5 Periferije i interfejsi
+5 Arhitektura racunarskih sistema
+5 Teorija slozenosti algoritama
+5 Napredne programske tehnike
+6 Programski jezici
+6 Softverski inzenjering
+6 Mobilne i bezicne komunikacije
+6 Interaktivni dizajn i vizuelizacija
+6 Vizuelizacija i racunarska grafika
+6 Matematicko modeliranje
+6 Kriptografija

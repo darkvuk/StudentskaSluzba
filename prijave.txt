@@ -1,0 +1,15 @@
+Darko Vukasovic 4 20 2021/2022 3 Matematika III
+Darko Vukasovic 4 20 2021/2022 3 Engleski jezik III
+Darko Vukasovic 4 20 2021/2022 3 Objektno orijentisano programiranje
+Darko Vukasovic 4 20 2021/2022 1 Engleski jezik I
+Darko Vukasovic 4 20 2021/2022 2 Strukture podataka
+Marko Markovic 23 18 2021/2022 3 Matematika III
+Marko Markovic 23 18 2022/2023 3 Matematika III
+Darko Vukasovic 4 20 2022/2023 5 Programski prevodioci
+Darko Vukasovic 4 20 2022/2023 3 Matematika III
+Darko Vukasovic 4 20 2022/2023 4 Računarske mreze i komunikacije
+Darko Vukasovic 4 20 2022/2023 6 Softverski inzenjering
+Darko Vukasovic 4 20 2025/2026 1 Matematika I
+Darko Vukasovic 4 20 2021/2022 5 Matematika V
+Darko Vukasovic 4 20 2020/2021 1 Uvod u kompjuterske nauke
+Darko Vukasovic 4 20 2021/2022 1 Uvod u kompjuterske nauke
